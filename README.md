@@ -1,0 +1,1 @@
+# DevPortalUserB2CIdentity
